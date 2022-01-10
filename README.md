@@ -7,9 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently pursuing my Bachelor's degree in Information and Communication Technology 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mehir-wolde-222b98191/)
-</br
 
-</br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="c" width="40" height="40"/> </a> 
