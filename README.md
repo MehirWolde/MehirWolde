@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently pursuing my Bachelor's degree in Information and Communication Technology 
+- 🔭 I’m currently pursuing my Bachelor's degree in Information and Communication Technology and staring my masters in fall 2022. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mehir-wolde-222b98191/)
 
 <h3 align="center">Languages and Tools:</h3>
