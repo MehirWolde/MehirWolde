@@ -38,5 +38,6 @@ Here are some ideas to get you started:-->
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehirwolde&show_icons=true&locale=en" alt="mehirwolde" /></p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 
