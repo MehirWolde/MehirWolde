@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently pursuing my Master's degree in Cybersecurity at the Royal Institute of Technology after completing my Bachelor's degree in Information and Communication Technology last spring. 
+- 🔭 I’m currently pursuing my Master's degree in Cybersecurity at the Royal Institute of Technology after completing my Bachelor's degree in Information and Communication Technology. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mehir-wolde-222b98191/)
 
 <h3 align="center">Languages and Tools:</h3>
